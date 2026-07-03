@@ -50,5 +50,4 @@ I build functional full-stack applications that bridge the gap between autonomou
 ### 📬 Connect & Collaborate
 
 * **LinkedIn:** [Vivek Mitra](https://www.linkedin.com/in/vivek-mitra-86536ba0/)
-* **On-Chain Identity:** `vewake.eth`
 * **Location:** Sydney, Australia
